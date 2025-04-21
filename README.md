@@ -8,11 +8,11 @@
 
 ---
 
-## 🧠 Overview
+🧠 Overview
 
 This repository contains the full white paper and supporting dataset for:
 
-**“ECS & Aging, Hormones, and Longevity: A Systems Biology Framework for Age Reversal, Hormonal Regulation, and Epigenetic Optimization.”**
+ECS & Aging, Hormones, and Longevity: A Systems Biology Framework for Age Reversal, Hormonal Regulation, and Epigenetic Optimization.”**
 
 This paper redefines the endocannabinoid system (ECS) as a real-time operating system for managing aging, integrating:
 
@@ -49,7 +49,7 @@ The anti-aging serum and clinical ECS stack architecture described are available
 - Clinical protocol licensing  
 - Functional medicine stack integration
 
-📩 Contact: **ecssignalling@gmail.com**
+📩 Contact: TeamMohamed@proton.me
 
 ---
 
